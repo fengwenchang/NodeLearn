@@ -1,0 +1,11 @@
+var os = require("os")
+os.tmpdir()
+os.endianness()
+os.hostname
+os.type()
+os.platform()
+os.arch()
+os.release()
+os.freemem()
+os.cpus()
+os.networkInterfaces()
